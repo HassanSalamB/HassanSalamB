@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👊, I'm Hassan Salam 👳🏽</h1>
-<h3 align="center">Data Scientist with a passion to help you identify your problems in business and solve them with creative ideas!</h3>
+<h1 align="left">Hi 👊, I'm Hassan Salam 👳🏽</h1>
+<h3 align="left">Data Scientist with a passion to help you identify your problems in business and solve them with creative ideas!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansalamb&label=Profile%20views&color=0e75b6&style=flat" alt="hassansalamb" /> </p>
 
