@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **my good looking models and beautiful plots**
 
-- 📫 How to reach me **hassansalamb@gmail.com**
-
 - ⚡ Fun fact **love the sun in winters and dislike rain in summers**
 
 <h3 align="left">Connect with me:</h3>
