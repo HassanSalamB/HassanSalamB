@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HassanSalamB?tab=repositories](https://github.com/HassanSalamB?tab=repositories)
 
-- 💬 Ask me about **my good looking models and beautiful curves**
+- 💬 Ask me about **my good looking models and beautiful plots**
 
 - 📫 How to reach me **hassansalamb@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassanbanayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="hassanbanayeem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassanbanayeem" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="hassanbanayeem" height="30" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
