@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassanbanayeem" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="hassanbanayeem" height="30" width="25" /></a>
+<a href="https://www.linkedin.com/in/hassanbanayeem" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="hassanbanayeem" height="30" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
