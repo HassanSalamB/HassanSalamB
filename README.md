@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **tableau and power bi**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HassanSalamB?tab=repositories](https://github.com/HassanSalamB?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/HassanSalamB?tab=repositories)
 
 - 💬 Ask me about **my good looking models and beautiful plots**
 
