@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansalamb&label=Profile%20views&color=0e75b6&style=flat" alt="hassansalamb" /> </p>
 
-- 🔭 I’m currently working on **Google analytics session prediction**
+- 🔭 I’m currently working on **Deploying ML model online that predicts revenue based on session behavior**
 
-- 🌱 I’m currently learning **tableau and power bi**
+- 🌱 I’m currently learning **PowerBi and IBM deep learning**
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/HassanSalamB?tab=repositories)
 
