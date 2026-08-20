@@ -27,49 +27,49 @@ I work across the full operational life of data: collecting it, moving it, trans
 ### Build and transform
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" title="Databricks" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="Apache Spark" title="Apache Spark" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow" title="Apache Airflow" />&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/18339788?v=4" height="42" alt="dbt" title="dbt" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" title="Pandas" />
-<br><sub><b>Python</b> · <b>Databricks</b> · <b>Apache Spark</b> · <b>Apache Airflow</b> · <b>dbt</b> · <b>Pandas</b></sub>
+<img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" title="Python" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" title="Databricks" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" title="Apache Spark" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" title="Apache Airflow" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://avatars.githubusercontent.com/u/18339788?v=4" height="48" alt="dbt" title="dbt" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" title="Pandas" />
+<br><br><sub><b>Python</b> · <b>Databricks</b> · <b>Apache Spark</b> · <b>Apache Airflow</b> · <b>dbt</b> · <b>Pandas</b></sub>
 </p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="42" alt="Apache Kafka" title="Apache Kafka" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" height="42" alt="Apache Parquet" title="Apache Parquet" />&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/49767398?v=4" height="42" alt="Delta Lake" title="Delta Lake" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="42" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB" title="MongoDB" />
-<br><sub><b>Apache Kafka</b> · <b>Parquet</b> · <b>Delta Lake</b> · <b>Snowflake</b> · <b>PostgreSQL</b> · <b>MongoDB</b></sub>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="48" alt="Apache Kafka" title="Apache Kafka" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" height="48" alt="Apache Parquet" title="Apache Parquet" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://avatars.githubusercontent.com/u/49767398?v=4" height="48" alt="Delta Lake" title="Delta Lake" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" title="Snowflake" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PostgreSQL" title="PostgreSQL" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="48" alt="MongoDB" title="MongoDB" />
+<br><br><sub><b>Apache Kafka</b> · <b>Parquet</b> · <b>Delta Lake</b> · <b>Snowflake</b> · <b>PostgreSQL</b> · <b>MongoDB</b></sub>
 </p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/neo4j/4581C3" height="42" alt="Neo4j" title="Neo4j" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/uber/000000" height="42" alt="H3" title="H3 geospatial indexing" />
-<br><sub><b>Neo4j</b> · <b>MySQL</b> · <b>H3</b></sub>
+<img src="https://cdn.simpleicons.org/neo4j/4581C3" height="48" alt="Neo4j" title="Neo4j" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL" title="MySQL" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/uber/000000" height="48" alt="H3" title="H3 geospatial indexing" />
+<br><br><sub><b>Neo4j</b> · <b>MySQL</b> · <b>H3</b></sub>
 </p>
 
 ### Ship and operate
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Microsoft Azure" title="Microsoft Azure" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/terraform/844FBA" height="42" alt="Terraform" title="Terraform" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="42" alt="GitHub Actions" title="GitHub Actions" />
-<br><sub><b>Microsoft Azure</b> · <b>AWS</b> · <b>Docker</b> · <b>Kubernetes</b> · <b>Terraform</b> · <b>GitHub Actions</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="48" alt="Microsoft Azure" title="Microsoft Azure" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" alt="AWS" title="AWS" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker" title="Docker" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="Kubernetes" title="Kubernetes" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/terraform/844FBA" height="48" alt="Terraform" title="Terraform" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="48" alt="GitHub Actions" title="GitHub Actions" />
+<br><br><sub><b>Microsoft Azure</b> · <b>AWS</b> · <b>Docker</b> · <b>Kubernetes</b> · <b>Terraform</b> · <b>GitHub Actions</b></sub>
 </p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" height="42" alt="Grafana" title="Grafana" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Alertmanager" title="Alertmanager" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker Compose" title="Docker Compose" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" title="Git" />
-<br><sub><b>Prometheus</b> · <b>Grafana</b> · <b>Alertmanager</b> · <b>Docker Compose</b> · <b>Linux</b> · <b>Git</b></sub>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="48" alt="Prometheus" title="Prometheus" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="48" alt="Grafana" title="Grafana" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="48" alt="Alertmanager" title="Alertmanager" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker Compose" title="Docker Compose" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="48" alt="Linux" title="Linux" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" title="Git" />
+<br><br><sub><b>Prometheus</b> · <b>Grafana</b> · <b>Alertmanager</b> · <b>Docker Compose</b> · <b>Linux</b> · <b>Git</b></sub>
 </p>
 
 `CI/CD` · `Infrastructure as Code` · `Container orchestration` · `Monitoring & alerting`
@@ -77,13 +77,13 @@ I work across the full operational life of data: collecting it, moving it, trans
 ### Serve and communicate
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit" title="Streamlit" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Plotly" title="Plotly" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Dash" title="Dash" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="REST APIs" title="REST APIs" />
-<br><sub><b>FastAPI</b> · <b>Flask</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>Dash</b> · <b>REST APIs</b></sub>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="48" alt="FastAPI" title="FastAPI" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/flask/000000" height="48" alt="Flask" title="Flask" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" title="Streamlit" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" title="Plotly" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Dash" title="Dash" />&emsp;&emsp;&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="48" alt="REST APIs" title="REST APIs" />
+<br><br><sub><b>FastAPI</b> · <b>Flask</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>Dash</b> · <b>REST APIs</b></sub>
 </p>
 
 `Technical documentation` · `Architecture diagrams` · `Analytics dashboards` · `Data products`
