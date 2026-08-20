@@ -6,7 +6,7 @@
 
 From ingestion and transformation to infrastructure, delivery, and observability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanbanayeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassansalamb)
 [![Projects](https://img.shields.io/badge/GitHub-View_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hassansalamb.github.io)
 
@@ -20,6 +20,30 @@ I'm **Hassan**, a Data Engineer, DataOps practitioner, and Cloud Engineer based 
 
 I work across the full operational life of data: collecting it, moving it, transforming it, modeling it, serving it, and keeping the platform healthy after deployment. My focus is not simply making a pipeline run once—it is making the system repeatable, observable, maintainable, and ready to evolve.
 
+## Platform toolbox
+
+<div align="center">
+
+### Build and transform
+
+[![Build and transform](https://skillicons.dev/icons?i=python,azure,postgres,mongodb,mysql,kafka&theme=dark)](https://skillicons.dev)
+
+`Databricks` · `Apache Spark` · `Apache Airflow` · `dbt` · `Pandas` · `Parquet` · `Delta Lake` · `Snowflake` · `Neo4j` · `H3`
+
+### Ship and operate
+
+[![Ship and operate](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,git&theme=dark)](https://skillicons.dev)
+
+`Microsoft Azure` · `CI/CD` · `Infrastructure as Code` · `Prometheus` · `Grafana` · `Alertmanager` · `Docker Compose`
+
+### Serve and communicate
+
+[![Serve and communicate](https://skillicons.dev/icons?i=fastapi,flask&theme=dark)](https://skillicons.dev)
+
+`REST APIs` · `Streamlit` · `Dash` · `Plotly` · `Technical documentation` · `Architecture diagrams`
+
+</div>
+
 ```text
 SOURCES          DATA PLANE                PLATFORM PLANE            CONSUMERS
 
@@ -27,7 +51,7 @@ APIs       ─┐    Kafka  ─┐                CI/CD       ─┐            
 Files       ├──▶ Airflow ├──▶ Spark/dbt ─▶ Terraform  ├──▶ Observe ─▶ Dashboards
 Events      ┘    Python  ┘                Containers   ┘             Data products
 
-                      PostgreSQL • Neo4j • Snowflake
+                      PostgreSQL • Neo4j • Snowflake • Azure • Databricks
                       Prometheus • Grafana • Testing
 ```
 
@@ -61,60 +85,64 @@ Containerized services, infrastructure as code, cloud-ready architecture, deploy
 
 ## Systems I've built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 / 🗺️ [Tourism Big Data Recommender](https://github.com/HassanSalamB/tourism-big-data-recommender)
 
-### 🗺️ Tourism Big Data Recommender
+> A country-scale tourism platform that turns raw DATAtourisme points of interest into useful destination analytics and itinerary recommendations.
 
-**A country-scale tourism data platform that converts raw points of interest into itinerary recommendations.**
+<p align="center">
+  <a href="https://github.com/HassanSalamB/tourism-big-data-recommender">
+    <img width="48%" src="https://raw.githubusercontent.com/HassanSalamB/tourism-big-data-recommender/dev/artifacts/screenshots/01-streamlit-dashboard.png" alt="Tourism recommendation dashboard" />
+  </a>
+  <a href="https://github.com/HassanSalamB/tourism-big-data-recommender">
+    <img width="48%" src="https://raw.githubusercontent.com/HassanSalamB/tourism-big-data-recommender/dev/artifacts/screenshots/03-airflow-dag-grid.png" alt="Airflow pipeline orchestration" />
+  </a>
+</p>
 
-The system ingests DATAtourisme data, detects incremental changes, builds bronze/silver/gold layers, produces analytics marts and graph relationships, and serves recommendations through an API and dashboard.
+| Challenge | System design | Output |
+|---|---|---|
+| Process a large national POI feed without rebuilding everything on every run. | Content-hash change detection, bronze/silver/gold layers, Airflow orchestration, Spark features, dbt marts, and graph relationships. | Searchable destination data, itinerary recommendations, analytics dashboards, REST endpoints, and observable pipeline operations. |
+
+```text
+DATAtourisme → Airflow → Bronze JSONB → Silver/Parquet → Spark + dbt
+             → PostgreSQL + Neo4j → FastAPI + Streamlit → Kafka + Observability
+```
 
 `Airflow` `Kafka` `Spark` `dbt` `PostgreSQL` `Neo4j` `FastAPI` `Streamlit` `Prometheus` `Grafana` `Terraform`
 
-[![Open project](https://img.shields.io/badge/Open_project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB/tourism-big-data-recommender)
+[![Explore the architecture](https://img.shields.io/badge/Explore_the_architecture-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB/tourism-big-data-recommender)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ✈️ Flight Delay Analytics Platform
+### 02 / ✈️ [Flight Delay Analytics Platform](https://github.com/HassanSalamB/dst-airlines)
 
-**A multi-database platform for exploring more than 560,000 US domestic flights.**
+> A multi-database analytics system built around 560,000+ US domestic flights, live weather enrichment, route intelligence, and delay prediction.
 
-The platform combines flight and live weather data with medallion processing, route-graph analysis, delay prediction, REST endpoints, and a multi-page analytics experience.
+| Scale | Data architecture | Product surface | Operational model |
+|---|---|---|---|
+| **560K+ flights** across 2018–2024 | PostgreSQL medallion layers, MongoDB live workloads, Neo4j route graph | 11 FastAPI endpoints and a seven-page Dash application | Seven containerized services launched through Docker Compose |
+
+```text
+Flights + Weather
+       ↓
+Collect & validate ──▶ PostgreSQL / MongoDB / Neo4j
+       ↓                         ↓
+Feature engineering       Graph route analysis
+       └──────────▶ FastAPI + Dash ◀──────────┘
+                         ↓
+              Delay insights & prediction
+```
+
+**What the platform delivers**
+
+- Interactive airport and delay exploration across real historical flight data
+- Live Open-Meteo context for weather-aware analysis
+- Shortest-path queries over a 346-airport Neo4j graph
+- Delay classification and regression workflows
+- A single-command, reproducible local deployment
 
 `Python` `PostgreSQL` `MongoDB` `Neo4j` `FastAPI` `Dash` `Docker` `scikit-learn` `Open-Meteo`
 
-[![Open project](https://img.shields.io/badge/Open_project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB/dst-airlines)
-
-</td>
-</tr>
-</table>
-
-## Platform toolbox
-
-<div align="center">
-
-### Build and transform
-
-[![Build and transform](https://skillicons.dev/icons?i=python,postgres,mongodb,mysql,kafka&theme=dark)](https://skillicons.dev)
-
-`Apache Spark` · `Apache Airflow` · `dbt` · `Pandas` · `Parquet` · `Snowflake` · `Neo4j`
-
-### Ship and operate
-
-[![Ship and operate](https://skillicons.dev/icons?i=docker,terraform,aws,githubactions,linux,git&theme=dark)](https://skillicons.dev)
-
-`CI/CD` · `Infrastructure as Code` · `Prometheus` · `Grafana` · `Alertmanager` · `Docker Compose`
-
-### Serve and communicate
-
-[![Serve and communicate](https://skillicons.dev/icons?i=fastapi,flask&theme=dark)](https://skillicons.dev)
-
-`REST APIs` · `Streamlit` · `Dash` · `Plotly` · `Technical documentation` · `Architecture diagrams`
-
-</div>
+[![Explore the platform](https://img.shields.io/badge/Explore_the_platform-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB/dst-airlines)
 
 ## My engineering standard
 
@@ -125,22 +153,6 @@ The platform combines flight and live weather data with medallion processing, ro
 | **Design for change** | Configuration belongs outside code; services and data layers should evolve independently. |
 | **Protect data quality** | Validation and lineage matter from ingestion through every downstream consumer. |
 | **Document decisions** | A platform is easier to operate when its tradeoffs and runbooks are visible. |
-
-## On my radar
-
-```yaml
-deepening:
-  - distributed processing with Spark
-  - event-driven pipelines with Kafka
-  - analytics engineering with dbt
-  - infrastructure automation with Terraform
-
-exploring:
-  - Kubernetes for data workloads
-  - managed cloud data services
-  - platform security and cost-aware architecture
-  - stronger CI/CD patterns for data systems
-```
 
 ## Activity
 
@@ -158,7 +170,7 @@ exploring:
 
 ### Have a data-platform problem worth discussing?
 
-[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanbanayeem)
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassansalamb)
 [![Explore the work](https://img.shields.io/badge/Explore_the_work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HassanSalamB?tab=repositories)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0F766E,100:2DD4BF)
