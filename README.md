@@ -26,65 +26,65 @@ I work across the full operational life of data: collecting it, moving it, trans
 
 ### Build and transform
 
-<table>
-<tr>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" /><br><sub><b>Python</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" /><br><sub><b>Databricks</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="Apache Spark" /><br><sub><b>Apache Spark</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow" /><br><sub><b>Apache Airflow</b></sub></td>
-<td align="center" width="16%"><img src="https://avatars.githubusercontent.com/u/18339788?v=4" height="42" alt="dbt" /><br><sub><b>dbt</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" /><br><sub><b>Pandas</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/apachekafka/231F20" height="42" alt="Apache Kafka" /><br><sub><b>Apache Kafka</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" height="42" alt="Apache Parquet" /><br><sub><b>Parquet</b></sub></td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/49767398?v=4" height="42" alt="Delta Lake" /><br><sub><b>Delta Lake</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="42" alt="Snowflake" /><br><sub><b>Snowflake</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/neo4j/4581C3" height="42" alt="Neo4j" /><br><sub><b>Neo4j</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/uber/000000" height="42" alt="H3 geospatial indexing" /><br><sub><b>H3</b></sub></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" title="Databricks" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42" alt="Apache Spark" title="Apache Spark" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow" title="Apache Airflow" />&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/18339788?v=4" height="42" alt="dbt" title="dbt" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" title="Pandas" />
+<br><sub><b>Python</b> · <b>Databricks</b> · <b>Apache Spark</b> · <b>Apache Airflow</b> · <b>dbt</b> · <b>Pandas</b></sub>
+</p>
+<p align="center">
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="42" alt="Apache Kafka" title="Apache Kafka" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" height="42" alt="Apache Parquet" title="Apache Parquet" />&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/49767398?v=4" height="42" alt="Delta Lake" title="Delta Lake" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="42" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB" title="MongoDB" />
+<br><sub><b>Apache Kafka</b> · <b>Parquet</b> · <b>Delta Lake</b> · <b>Snowflake</b> · <b>PostgreSQL</b> · <b>MongoDB</b></sub>
+</p>
+<p align="center">
+<img src="https://cdn.simpleicons.org/neo4j/4581C3" height="42" alt="Neo4j" title="Neo4j" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/uber/000000" height="42" alt="H3" title="H3 geospatial indexing" />
+<br><sub><b>Neo4j</b> · <b>MySQL</b> · <b>H3</b></sub>
+</p>
 
 ### Ship and operate
 
-<table>
-<tr>
-<td align="center" width="16%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Microsoft Azure" /><br><sub><b>Microsoft Azure</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" /><br><sub><b>AWS</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" /><br><sub><b>Docker</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42" alt="Kubernetes" /><br><sub><b>Kubernetes</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/terraform/844FBA" height="42" alt="Terraform" /><br><sub><b>Terraform</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="42" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Prometheus" /><br><sub><b>Prometheus</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/grafana/F46800" height="42" alt="Grafana" /><br><sub><b>Grafana</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Alertmanager" /><br><sub><b>Alertmanager</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker Compose" /><br><sub><b>Docker Compose</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" /><br><sub><b>Git</b></sub></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Microsoft Azure" title="Microsoft Azure" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/terraform/844FBA" height="42" alt="Terraform" title="Terraform" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="42" alt="GitHub Actions" title="GitHub Actions" />
+<br><sub><b>Microsoft Azure</b> · <b>AWS</b> · <b>Docker</b> · <b>Kubernetes</b> · <b>Terraform</b> · <b>GitHub Actions</b></sub>
+</p>
+<p align="center">
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="42" alt="Grafana" title="Grafana" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="42" alt="Alertmanager" title="Alertmanager" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker Compose" title="Docker Compose" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" title="Git" />
+<br><sub><b>Prometheus</b> · <b>Grafana</b> · <b>Alertmanager</b> · <b>Docker Compose</b> · <b>Linux</b> · <b>Git</b></sub>
+</p>
 
 `CI/CD` · `Infrastructure as Code` · `Container orchestration` · `Monitoring & alerting`
 
 ### Serve and communicate
 
-<table>
-<tr>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" /><br><sub><b>FastAPI</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask" /><br><sub><b>Flask</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit" /><br><sub><b>Streamlit</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Plotly" /><br><sub><b>Plotly</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Dash" /><br><sub><b>Dash</b></sub></td>
-<td align="center" width="16%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="REST APIs" /><br><sub><b>REST APIs</b></sub></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit" title="Streamlit" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Plotly" title="Plotly" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Dash" title="Dash" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="REST APIs" title="REST APIs" />
+<br><sub><b>FastAPI</b> · <b>Flask</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>Dash</b> · <b>REST APIs</b></sub>
+</p>
 
 `Technical documentation` · `Architecture diagrams` · `Analytics dashboards` · `Data products`
 
